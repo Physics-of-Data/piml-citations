@@ -16,6 +16,8 @@ PS. Every paper has its respective DOI as a link. You should be able to open the
 ## Changes
 
 ### 2025-08-01
+* Add all the document types.
+* Add top five document types
 * Add link to Git repository for citations that have it. It will show at the end of each citation, right after relevance.
 * Change of citation format to include link to Git remote repository.
 * Better separation of core citations (404) from supporting documents (51).
