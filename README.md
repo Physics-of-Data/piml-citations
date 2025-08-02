@@ -12,3 +12,9 @@ PS. Every paper has its respective DOI as a link. You should be able to open the
 
 (All parts archived in LinkedIn under [\#PhysicsOfData](https://www.linkedin.com/search/results/all/?keywords=%23physicsofdata&origin=HASH_TAG_FROM_FEED&sid=BBh))
 
+
+## Changes
+
+### 2025-08-01
+* Add link to Git repository for citations that have it. It will show at the end of each citation, right after relevance.
+
