@@ -15,6 +15,12 @@ PS. Every paper has its respective DOI as a link. You should be able to open the
 
 ## Changes
 
+### 2025-08-04
+* Now includes the number of references.
+* Justification to the left
+* Include YouTube links if `docType` is a video
+* If `docType` is "Software" then print the Git repo URL.
+
 ### 2025-08-01
 * Add all the document types.
 * Add top five document types
