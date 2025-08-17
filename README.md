@@ -18,6 +18,10 @@ Be warned, though, that no "AI" was hurt or abused during the edition of this re
 
 ## Changes
 
+### 2025-08-17
+* Fix some typos, correct last names, long DOI, add DOI, in five citations
+* Fixed citation 462 that had no data attached
+
 ### 2025-08-16
 * Show keyword density indicator per citation
 * Statistical tables included
