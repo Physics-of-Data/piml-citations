@@ -14,31 +14,4 @@ Be warned, though, that no "AI" was hurt or abused during the edition of this re
 * Keyword PDF match indicator per document. `KDensity` is number of keywords matched divided by number of pages
 * If the document has been nade reproducible by the authors, there will be a GitHub icon on that citation
 
-
-
-## Changes
-
-### 2025-08-17
-* Fix some typos, correct last names, long DOI, add DOI, in five citations
-* Fixed citation 462 that had no data attached
-
-### 2025-08-16
-* Show keyword density indicator per citation
-* Statistical tables included
-* GitHub icon added for citations with repository
-* Journal and Publisher Distribution table
-* Document Type Distribution table
-* 518 citations in this edition
-
-### 2025-08-04
-* Now includes the number of references.
-* Justification to the left
-* Include YouTube links if `docType` is a video
-* If `docType` is "Software" then print the Git repo URL.
-
-### 2025-08-01
-* Add all the document types.
-* Add top five document types
-* Add link to Git repository for citations that have it. It will show at the end of each citation, right after relevance.
-* Change of citation format to include link to Git remote repository.
-* Better separation of core citations (404) from supporting documents (51).
+<!-- APPENDED_CONTENT_START -->
