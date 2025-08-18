@@ -1,8 +1,8 @@
 # Physics of Data. Part XX
 
-## Physics-Informed Learning Machines Literature. 518
+## Physics-Informed Learning Machines Literature
 
-Please, find attached a new edition of the "Physics-Informed Learning Machines Literature" PDF with 518 citations related to PIML, SciML, PINNs, Neural Operators, and other physics-enhanced methods.
+Please, find attached a new edition of the "Physics-Informed Learning Machines Literature" PDF with few hundred citations related to PIML, SciML, PINNs, Neural Operators, and other physics-enhanced methods.
 
 Please, if you notice I am missing a seminal paper, or another important one, that you think it must be included, provide me the DOI, and I will include it in the next edition. You will get your name cited as a collaborator (*pending for next edition*).
 
@@ -15,11 +15,13 @@ Be warned, though, that no "AI" was hurt or abused during the edition of this re
 * If the document has been nade reproducible by the authors, there will be a GitHub icon on that citation
 
 
+
 <!-- APPENDED_CONTENT_START -->
 
 ## Updates
 
 ### 2025-08-17
+* added Al-Atroush2025 and Mukherjee2025SL
 * Add number of citations prefix to subtitle
 * Fix some typos, correct last names, long DOI, add DOI, in five citations
 * Fixed citation 462 that had no data attached
