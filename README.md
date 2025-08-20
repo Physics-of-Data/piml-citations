@@ -17,12 +17,14 @@ Be warned, though, that no "AI" was hurt or abused during the edition of this re
 
 
 
+
 <!-- APPENDED_CONTENT_START -->
 
 ## Updates
 
 ### 2025-08-19
 * added 19 paper citations provided by Youngsoo Choi
+* remove references to citation count in the filenames
 
 ### 2025-08-18
 * Make subtitle dynamic
