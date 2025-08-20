@@ -21,12 +21,13 @@ Be warned, though, that no "AI" was hurt or abused during the edition of this re
 
 
 
+
 <!-- APPENDED_CONTENT_START -->
 
 ## Updates
 
 ### 2025-08-19
-* add Barmada2024
+* add Barmada2024, Dodge2025 provided by Shayan Dodge
 * added 19 paper citations provided by Youngsoo Choi
 * remove references to citation count in the filenames
 
